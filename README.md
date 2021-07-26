@@ -33,7 +33,7 @@ Input data for the policy memo is not included for privacy reasons. To create yo
 `Date` \
 `New_Case`	\
 `Recovery`	\
-`Death`
+`Death` \
 `Active_Case`	\
 `Vac_1st_dose`	\
 `Total_daily_test`	\
