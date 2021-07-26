@@ -33,7 +33,9 @@ Input data for the policy memo is not included for privacy reasons. To create yo
 `Date` \
 `New_Case`	\
 `Recovery`	\
-`Death	Active_Case	Vac_1st_dose`	\
+`Death`
+`Active_Case`	\
+`Vac_1st_dose`	\
 `Total_daily_test`	\
 `Daily_Positivity_Rate` \
 `Death rate`	\
@@ -44,6 +46,8 @@ Input data for the policy memo is not included for privacy reasons. To create yo
 `transit_stations_percent_change_from_baseline` \
 `workplaces_percent_change_from_baseline`	\
 `residential_percent_change_from_baseline` 
+
+`CFR` = case fatality ratio.
 
 Useful sources to populate the data include:
 
